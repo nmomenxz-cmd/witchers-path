@@ -14,3 +14,5 @@ the story is where the game is weak at, i didnt add good scipting to make story 
 or lets say the idea of game.
 
 also i had to use the witcher as reference when creating the game and plan to make my own style and naming to things but dont have a lot of time unfortunately.
+
+to launch the game make sure you have python downloaded and press start_server.bat inside the directory of the game 
